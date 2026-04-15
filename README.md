@@ -75,7 +75,7 @@ instalar.sh realiza:
 
 ---
 ## ⚡ Instalación rápida
-1. git clone https://github.com/lauri1604/ConfigTerminal.git
+1. git clone [https://github.com/lauri1604/config-terminal-laura.git)
 2. cd ConfigTerminal
 3. ./instalar.sh
 ---
